@@ -1,0 +1,11 @@
+{
+  "name": "cli-todo",
+  "version": "1.0.0",
+  "description": "CLI Todo app in NodeJs",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index"
+  },
+  "author": "",
+  "license": "ISC"
+}
